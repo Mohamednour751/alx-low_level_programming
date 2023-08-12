@@ -1,11 +1,12 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/*
- * main - Entry point
- * Description: 'assign a random number'
+/**
+ * main - main function
+ * Description: int is n, then print n is positive or negative or zero.
  * Return: Always 0 (success)
-*/
+* /
+
 int main(void)
 {
 	int n;

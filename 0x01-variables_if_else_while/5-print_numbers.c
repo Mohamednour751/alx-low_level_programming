@@ -1,8 +1,8 @@
 #include <stdio.h>
 /*
- * main - Entry point
- * Description: print all single digit numbers
- * Return: Always 0 (success)
+ * main - main function
+ * Description: a c progam that prints with printf function
+ * Return: Always 0
 */
 int main(void)
 {
