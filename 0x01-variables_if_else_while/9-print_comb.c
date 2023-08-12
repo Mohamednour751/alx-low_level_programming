@@ -4,6 +4,7 @@
  * description: print comb of numbers
  * return: always 0 (success)
 */
+
 int main(void)
 {
 	int n;
