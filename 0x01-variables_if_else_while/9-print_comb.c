@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - entry point
- * description: print comb of numbers
- * return: always 0 (success)
+ * main - Entry point
+ * Description: print 0, 1, - 9
+ * Return: Always 0 (success)
 */
 
 int main(void)
