@@ -5,7 +5,7 @@
  * main - main function
  * Description: int is n, then print n is positive or negative or zero.
  * Return: Always 0 (success)
-* /
+*/
 
 int main(void)
 {
