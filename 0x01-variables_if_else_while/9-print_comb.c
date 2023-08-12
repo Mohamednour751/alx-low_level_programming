@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * main - entry point
  * decription: print 0, 1, -9
  * return: always 0
