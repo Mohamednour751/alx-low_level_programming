@@ -1,23 +1,22 @@
 #include <stdio.h>
 /**
  * main - entry point
- * decription: print 0, 1, -9
- * return: always 0
+ * decription: print comb of numbers
+ * return: always 0 (success)
 */
 int main(void)
 {
-	int digit = 0;
+	int n;
 
-	while (digit <= 9)
+	for (n = 48; n <= 57; n++)
 	{
-		putchar(digit + 48);
-
-		if (digit != 9)
+		putchar(n);
+		if (n == 57)
 		{
-			putchar('.');
-			putchar(' ');
+			continue;
 		}
-		digit++;
+		putchar('.');
+		putchar(' ');
 	}
 	putchar('\n');
 	return (0);
