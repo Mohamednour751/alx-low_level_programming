@@ -6,7 +6,7 @@
 */
 int main(void)
 {
-	char str[10] = ("_putchar");
+	char str[8] = ("_putchar");
 
 	printf("%s", str);
 return (0);
